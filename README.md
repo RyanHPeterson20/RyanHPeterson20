@@ -1,6 +1,6 @@
-- Hi, I’m @Ryan Peterson
+- Hi, I’m Ryan Peterson a recent graduate from MSU Denver with a BS in Statistical Science and a Minor in Computer Science.
 - I’m interested in complex networks, fractals, appilcation of math, stats, and computing in answering sociol or biological questions.
-- I’m currently learning graph theory and dyanmical systems. 
+- I’m currently learning graph theory, dyanmical systems, and machine learning. 
 - How to reach me: ryanhpeterson20@gmail.com 
 
 <!---
