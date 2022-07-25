@@ -1,6 +1,5 @@
-- Hi, I’m Ryan Peterson a recent graduate from MSU Denver with a BS in Statistical Science and a Minor in Computer Science.
-- I’m interested in complex networks, fractals, appilcation of math, stats, and computing in answering social and biological questions.
-- I’m currently learning graph theory, dyanmical systems, and topological data analysis. 
+- Hi, I’m Ryan Peterson a 1st year PhD student in Applied Math and Stats at Colorado School of Mines.
+-I'm interested in Spatial Stats, specifically working on modifiable areal unit problem with respect to boundaries of urban systems (MSAs).
 - How to reach me: ryanhpeterson20@gmail.com 
 
 <!---
