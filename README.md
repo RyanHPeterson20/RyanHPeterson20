@@ -1,5 +1,5 @@
-- Hi, I’m Ryan Peterson a 1st year PhD student in Applied Math and Stats at Colorado School of Mines.
-- I'm interested in Spatial Stats, specifically working on modifiable areal unit problem with respect to boundaries of urban systems (MSAs).
+- Hi, I’m Ryan Peterson a Stats PhD student at Colorado School of Mines.
+- I'm interested in Spatial Stats, specifically working on Change of Support problems with various applications (including geophysical, climate, and socio-economic data).
 - How to reach me: ryanhpeterson20@gmail.com 
 
 <!---
