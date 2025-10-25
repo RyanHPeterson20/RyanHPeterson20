@@ -1,6 +1,6 @@
-- Hi, I’m Ryan Peterson a Stats PhD candidate at Colorado School of Mines.
-- I work in Spatial and Environmental Statistics. Specifically change of support problems and basis function methods, with applications in climate, socio-economic, and geophysics data).
-  - Work done primarily in R, however I have been known to dabble in Python. 
+- Hi, I’m Ryan Peterson a Statistics PhD candidate at Colorado School of Mines.
+- I primarily do spatial statistics. Specializing in change of support problems and basis function methods, with applications in climate, socio-economic, and geophysics data.
+  - Work done primarily in R, however I also use Python (and some other languages). 
 - How to reach me: ryanhpeterson20@gmail.com (or rhpeterson@mines.edu)
 
 <!---
